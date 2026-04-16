@@ -80,7 +80,7 @@ const essayQuestions = [
 ];
 
 const submitToGoogleSheets = async (action: string, data: any) => {
-  const scriptUrl = 'https://script.google.com/macros/s/AKfycbzwVeZ_3pPKSTdxpHUIKCH2q4-LrBGXehY7ZY156D2ZxU_PpuNlqox2LfNUJB4VBSqZEQ/exec';
+  const scriptUrl = 'https://script.google.com/macros/s/AKfycbwQLvzE_DBeCoPYST8GkQ1lBS3CImd_AvK3kOgeGYDJjp7PVzAEefAaj8J_0bpRnJyk-Q/exec';
 
   try {
     // ใช้ text/plain เพื่อหลีกเลี่ยงปัญหา CORS Preflight ของ Google Apps Script
