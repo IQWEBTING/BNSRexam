@@ -1,0 +1,6 @@
+{
+  "name": "ระบบสอบออนไลน์ (BNSR)",
+  "description": "ระบบทำข้อสอบออนไลน์พร้อมตรวจสอบรหัสผู้เข้าสอบ บันทึกข้อมูลลง Google Sheets",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
